@@ -1,6 +1,6 @@
 # Project Demo
 
-[![Alt text](https://img.youtube.com/vi/lXk14qt2D28/0.jpg)](https://www.youtube.com/watch?v=lXk14qt2D28)
+
 
 ## Getting Started
 
@@ -69,17 +69,4 @@ Follow these setps 👇👇
    `DATABASE=mongodb+srv://myusername:myclusterpassword@mycluster.mongodb.net/ecommerce?retryWrites=true&w=majority`
    you can find the mongo url by goto the mongodb atlas website and goto your database and you can find a connect button and click on that you will see the url. And modify the url quite like my one with your secret info.
    N.B: And you must need to provide the cluster password not your account password! So find your cluster password from database access menu in mongodb atlast cloud and change accoding to you. Here I provide all image's that you can undarstand better
-   ![Alt Text](assetREADME.md/atlasUrl.png)
-   ![Alt Text](assetREADME.md/clusterPassword.png)
-   ![Alt Text](assetREADME.md/networkAccess.png)
 
-6. Then come to render website. Give all of the imformations I set in the image below just change the name of your project and then must be change the branch name to `master` to `render-deploy-backend`
-
-7. This is the setup for render
-   ![Alt Text](assetREADME.md/renderDeployBackendSetup.png)
-
-8. After all the setup you finished create the web service and It will deploy the project.
-
-You can deploy frontend into vercel or netlify also. Thanks
-
-`Build with 💛 by Hasan`
