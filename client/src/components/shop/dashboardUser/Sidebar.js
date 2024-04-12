@@ -1,5 +1,5 @@
 import React, { Fragment, useContext } from "react";
-import { useLocation, useHistory } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { logout } from "./Action";
 import { DashboardUserContext } from "./Layout";
 
